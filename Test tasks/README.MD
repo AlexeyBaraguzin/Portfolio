@@ -1,4 +1,4 @@
-## Выполненные тестоые задания от компаний:
+## Выполненные тестовые задания от компаний:
 
 ### 1. [101hotels.com](https://drive.google.com/open?id=10nElBxrmucjNVzRvOiKPnLYcGzdET0fl&usp=drive_fs)
 
